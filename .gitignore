@@ -1,0 +1,10 @@
+node
+node_modules
+target
+build
+bin
+.gradle
+.idea
+.classpath
+.project
+*.log

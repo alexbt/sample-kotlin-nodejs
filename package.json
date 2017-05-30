@@ -1,0 +1,20 @@
+{
+  "name": "sample-kotlin-nodejs",
+  "version": "1.0.0",
+  "description": "Kotlin built into Node JS",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "fs": "0.0.1-security",
+    "kotlin": "^1.1.0",
+    "node.js": "0.0.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node node/index.js",
+    "test": "echo \"Error: no tests\" && exit 1"
+  },
+  "author": "Alex Belisle Turcot",
+  "license": "Apache 2.0"
+}
